@@ -1,7 +1,7 @@
 # 📊 Unemployment in India - Data Analysis Project 🇮🇳
 
 # Project
-<img src="https://www.theglobalstatistics.com/wp-content/uploads/2022/05/Unemployment-Rate-in-India.jpg" width=1200> 
+<img src="https://www.the-network.com/wp-content/uploads/2017/04/unemployment-a-common-problem-worldwide_1-1-1.jpg" width=1200> 
 
    "Behind every percentage lies a person, a family, and a future. This project is my step toward making the data speak."
 
